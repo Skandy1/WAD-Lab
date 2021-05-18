@@ -1,0 +1,26 @@
+<STUDENT>
+	<STD>
+		<ID>1DY19MCA14</ID>
+		<NAME>Skanda</NAME>
+		<COURSE>MCA</COURSE>
+		<COLLEGE>DSCE</COLLEGE>
+		<EMAIL>skanda@gmail.com</EMAIL>
+	</STD>
+
+	<STD>
+		<ID>1DS19MCA01</ID>
+		<NAME>Ajay</NAME>
+		<COURSE>CSE</COURSE>
+		<COLLEGE>CHRIST</COLLEGE>
+		<EMAIL>ajabl@gmail.com</EMAIL>
+	</STD>
+
+	<STD>
+		<ID>1DY19MCA04</ID>
+		<NAME>Praveen</NAME>
+		<COURSE>MBA</COURSE>
+		<COLLEGE>NEW HORIZON</COLLEGE>
+		<EMAIL>praveen12@gmail.com</EMAIL>
+	</STD>
+
+</STUDENT>
